@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # startpage
 basic start page with quick links
 =======
@@ -52,4 +51,3 @@ This is how you can use Tilde out of the box, but it&rsquo;s
 
 Thank you for reading! Feel free to use and modify Tilde
 [as you see fit](UNLICENSE).
->>>>>>> origin/master
